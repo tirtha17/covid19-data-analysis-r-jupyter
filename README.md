@@ -5,7 +5,7 @@ This project analyzes **global COVID-19 testing data by country** using **R** in
 The goal is to extract data-driven insights to support a feature story on worldwide COVID-19 testing trends.
 
 The analysis involves:
-- Data acquisition using webscraping from an online source.
+- Data extraction using webscraping technique from an online source.
 - Cleaning, transforming, and exploring the dataset.
 - Providing insights to support storytelling with real data.
 
