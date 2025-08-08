@@ -2,12 +2,11 @@
 
 ## 📌 Overview
 This project analyzes **global COVID-19 testing data by country** using **R** in Jupyter Notebook.  
-The goal is to extract data-driven insights for a news channel's documentary team to support a feature story on worldwide COVID-19 testing trends.
+The goal is to extract data-driven insights to support a feature story on worldwide COVID-19 testing trends.
 
 The analysis involves:
-- Data acquisition from an online source.
+- Data acquisition using webscraping from an online source.
 - Cleaning, transforming, and exploring the dataset.
-- Generating visualizations to highlight testing patterns and disparities.
 - Providing insights to support storytelling with real data.
 
 ---
@@ -19,7 +18,7 @@ The channel’s documentary division is creating a feature story on global COVID
 - Clear and insightful analysis.
 - Visual evidence of testing differences among countries.
 
-Your role: **Collect, process, analyze, and visualize the data using R in Jupyter Notebook.**
+Your role: **Collect, process, and analyze the data using R in Jupyter Notebook.**
 
 ---
 
@@ -32,12 +31,6 @@ Your role: **Collect, process, analyze, and visualize the data using R in Jupyte
 ## 🛠 Tools & Technologies
 - **Language:** R  
 - **Platform:** Jupyter Notebook  
-- **Libraries:**  
-  - `tidyverse` (data manipulation and visualization)  
-  - `ggplot2` (data visualization)  
-  - `dplyr` (data wrangling)  
-  - `readr` (data import)  
-  - `lubridate` (date handling)  
 
 
 
