@@ -23,7 +23,7 @@ Your role: **Collect, process, and analyze the data using R in Jupyter Notebook.
 ---
 
 ## 📊 Dataset
-- **Source:** [Our World in Data - COVID-19 Testing Dataset](https://ourworldindata.org/coronavirus-testing) *(Replace link if your actual source differs)*
+- **Source:** [Our World in Data - COVID-19 Testing Dataset](https://en.wikipedia.org/wiki/Template:COVID-19_testing_by_country) *(Replace link if your actual source differs)*
 - **Content:** Country-wise testing data, including total tests, daily testing rates, population data, and related metrics.
 
 ---
