@@ -18,7 +18,7 @@ The channel’s documentary division is creating a feature story on global COVID
 - Clear and insightful analysis.
 - Visual evidence of testing differences among countries.
 
-Your role: **Collect, process, and analyze the data using R in Jupyter Notebook.**
+Your role: **Collect, process, and analyze the data using R in Jupyter Notebook.** 
 
 ---
 
